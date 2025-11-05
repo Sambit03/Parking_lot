@@ -22,8 +22,6 @@ src/
 └── index.ts              # Export file
 ```
 
-## Class Descriptions
-
 ### Core Entities
 
 - **Vehicle**: Represents a vehicle with ID and type
@@ -143,3 +141,5 @@ The system can be extended with:
 - Payment processing is simulated; integrate with real gateway
 - Error handling can be enhanced with custom error classes
 - Add unit tests for each class
+
+UML_diagram mermaidchart.png

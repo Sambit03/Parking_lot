@@ -1,0 +1,31 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "Smart Parking Lot System - Low Level Design Implementation in TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/Main.js",
+    "dev": "ts-node src/Main.ts",
+    "watch": "tsc --watch",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parking-lot",
+    "lld",
+    "low-level-design",
+    "typescript",
+    "system-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

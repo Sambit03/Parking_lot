@@ -142,4 +142,5 @@ The system can be extended with:
 - Error handling can be enhanced with custom error classes
 - Add unit tests for each class
 
-UML_diagram mermaidchart.png
+
+<img width="6155" height="4642" alt="Untitled diagram-2025-11-05-165318" src="https://github.com/user-attachments/assets/c5f2fde2-54b9-4077-b73e-70fce7dd8f34" />
